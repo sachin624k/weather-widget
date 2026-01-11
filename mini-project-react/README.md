@@ -101,4 +101,4 @@ const API_KEY = "YOUR_API_KEY"
 
 ## 📷 Screenshot
 
-![Weather Screenshot](src/assets/weather.png)
+<img src="src/assets/weather.png" width="400" alt="Weather Screenshot" />
